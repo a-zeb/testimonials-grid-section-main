@@ -1,0 +1,23 @@
+body {
+    font-family: "Barlow Semi Condensed";
+    font-size: 13px;
+    background-color: hsl(0, 0%, 81%);
+}
+
+.grid-container {
+    gap: 20px;
+}
+
+.grid-container div {
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.user-container {
+    display: flex;
+}
+
+.user-container img {
+    border: solid white .5px;
+    height: 30px;
+}
